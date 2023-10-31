@@ -6,7 +6,7 @@ Simple Server providing a M3U playlist file to an IPTV renderer
 Build
 
 ```
-docker build -t iptv-server
+docker build -t iptv-server .
 ```
 
 Run
