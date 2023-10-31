@@ -1,0 +1,34 @@
+#EXTM3U x-tvg-url="http://m3u-ip.tv/demo-epg.php"
+#EXTINF:-1 tvg-id="QVC 2 HD" tvg-name="QVC2Germany.de" status="timeout" group-title="Shopping",QVC Plus
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 tvg-id="QVC.de" tvg-name="QVCGermany.de" status="timeout" group-title="Shopping",QVC Germany
+https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 tvg-id="JustVogueTv.de" tvg-name="JustVogueTv.de" tvg-logo="https://static.wixstatic.com/media/796ff4_3f57885677e44398a2021663b2c01314~mv2.png/v1/fill/w_267,h_249,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/just%20vogue%20kont.png" status="timeout" group-title="Fashion",Just Vogue Tv
+https://tivi191.ozelip.com:3873/stream/play.m3u8
+#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="MotorvisionTV.de" status="timeout" group-title="Sport",Motorvision TV (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-id="HR.de" tvg-name="HRFernsehen.de" status="timeout" group-title="GEZ?",hr-fernsehen (1080p)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesAustria.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" status="online",Rakuten Comedy Movies Austria
+#EXTGRP:Rakuten
+https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" status="online",Rakuten Comedy Movies Germany
+#EXTGRP:Rakuten
+https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaAustria.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" status="online",Rakuten TV Shows Austria
+#EXTGRP:Rakuten
+https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" status="online",Rakuten Action Movies Germany
+#EXTGRP:Rakuten
+https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" status="online",Rakuten TV Shows Germany
+#EXTGRP:Rakuten
+https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" status="online",Rakuten Spotlight Germany
+#EXTGRP:Rakuten
+https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopFreeGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" status="online",Rakuten Top Free Germany
+#EXTGRP:Rakuten
+https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="Shopping",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8?checkedby:iptvcat.com
