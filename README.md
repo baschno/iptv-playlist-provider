@@ -1,6 +1,6 @@
 # IPTV Playlist Provider
 
-Simple Server providing a M3U playlist file to an IPTV renderer
+Simple NodeJS Server providing a M3U playlist file to an IPTV renderer like M3U IPTV for LG TVs
 
 ## Prepare and run docker
 Build
