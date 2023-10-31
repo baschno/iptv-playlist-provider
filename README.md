@@ -1,4 +1,8 @@
+# IPTV Playlist Provider
 
+Simple Server providing a M3U playlist file to an IPTV renderer
+
+## Prepare and run docker
 Build
 
 ```
