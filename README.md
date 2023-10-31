@@ -13,3 +13,8 @@ Run
 ```
 docker run -dp 8111:8111 -v "$(pwd)/data":/data --name iptv iptv-server
 ```
+
+Cleanup docker
+```
+docker stop iptv && docker rm iptv
+```
