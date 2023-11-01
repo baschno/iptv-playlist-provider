@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="101tvAntequera.es" tvg-logo="https://i.imgur.com/GzI3RC4.png" group-title="General",101tv Antequera
+https://streaming101tv.es/hls/webantequera.m3u8
+#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="News",101tv Malaga
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-1 tvg-id="24Horas.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="",24 Horas
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="28kanala.es" tvg-logo="https://i.imgur.com/DyvK28q.png" group-title="",28 kanala
+https://5940924978228.streamlock.net/8157/8157/master.m3u8
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/7TVRM.svg/512px-7TVRM.svg.png" group-title="",7 Television Region de Murcia
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="8LaMarinaTV.es" tvg-logo="https://i.imgur.com/BTJvvBK.png" group-title="General",8 La Marina TV
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+#EXTINF:-1 tvg-id="Canal25TV.es" tvg-logo="https://i.imgur.com/2BBGZ1H.png" group-title="",Canal 25 TV
+https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+#EXTINF:-1 tvg-id="Canal33Madrid.es" tvg-logo="https://i.imgur.com/1zJpDIX.png" group-title="",Canal 33 Madrid
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
+#EXTINF:-1 tvg-id="Canal45.es" tvg-logo="https://i.imgur.com/yEfSnGt.png" group-title="",Canal 45
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+#EXTINF:-1 tvg-id="Canal4ManchaCentro.es" tvg-logo="https://i.imgur.com/t3O3O9M.png" group-title="",Canal 4 Mancha Centro
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCosta.es" tvg-logo="https://i.imgur.com/ap4FmYb.png" group-title="",CanalCosta
+https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalMalagaRTV.es" tvg-logo="https://i.imgur.com/QSUOxtM.png" group-title="",Canal Malaga RTV
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSur2.es" tvg-logo="https://i.imgur.com/TM8XBky.png" group-title="General",Canal Sur 2
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://i.imgur.com/A9TmimD.png" group-title="",Canal Sur Andalucia
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CostadelSolTV.es" tvg-logo="https://i.imgur.com/01acb17.png" group-title="General",Costa del Sol TV
+https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
+#EXTINF:-1 tvg-id="IbizaGlobalTV.es" tvg-logo="https://i.imgur.com/7etSMR5.png" group-title="Music",Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="General",La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-id="La8Mediterraneo.es" tvg-logo="https://i.imgur.com/dYfcHh8.png" group-title="General",La 8 Mediterraneo
+https://streaming004.gestec-video.com/hls/8TV.m3u8
+#EXTINF:-1 tvg-id="Malaga24h.es" tvg-logo="https://i.imgur.com/jxDCxNh.png" group-title="",Malaga 24h
+https://ythlsgo.onrender.com/channel/UCoMWImnPAur6JhXDK63dpAg.m3u8
+#EXTINF:-1 tvg-id="OndaCadiz.es" tvg-logo="https://i.imgur.com/sOBMnby.png" group-title="",Onda Cadiz
+https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
+#EXTINF:-1 tvg-id="OndaMadrid.es" tvg-logo="https://i.imgur.com/Q1YwYsR.png" group-title="",Onda Madrid
+https://tvradio-1-23.secure2.footprint.net/master.m3u8
+#EXTINF:-1 tvg-id="PlanetaJuniorTVSpain.es" tvg-logo="https://i.imgur.com/EaYYKb7.png" group-title="Kids",Planeta Junior TV Spain
+https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimakidsSpain.es" tvg-logo="https://i.imgur.com/MSGZ3S9.png" group-title="Kids",Pluto TV Animakids Spain
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aabee6f4a2c00076a322c&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=905&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVCineAccionSpain.es" tvg-logo="https://i.imgur.com/PXhCzXn.png" group-title="Movies",Pluto TV Cine Accion Spain
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVCineClasicoSpain.es" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Movies",Pluto TV Cine Clasico Spain
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCineEstelarSpain.es" tvg-logo="https://i.imgur.com/v3BO4nW.png" group-title="Movies",Pluto TV Cine Estelar Spain
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVCocinaSpain.es" tvg-logo="https://i.imgur.com/LRtfQla.png" group-title="Cooking",Pluto TV Cocina Spain
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d0fbaa8742fa3093899da&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=956&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVKidsSpain.es" tvg-logo="https://i.imgur.com/eilI830.png" group-title="Kids",Pluto TV Kids Spain
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=51c75f7bb6f26ba1cd00002f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=989&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVMundoRealSpain.es" tvg-logo="https://i.imgur.com/DHAjKJt.png" group-title="Entertainment",Pluto TV Mundo Real Spain
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdfda84c970007e750b5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1acdfda84c970007e750b5&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=405&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVTelenovelasSpain.es" tvg-logo="https://i.imgur.com/GrtNJki.png" group-title="Series",Pluto TV Telenovelas Spain
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVToonsClasicoSpain.es" tvg-logo="https://i.imgur.com/gQcuJSE.png" group-title="Kids",Pluto TV Toons Clasico Spain
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PTVMalaga.es" tvg-logo="https://i.imgur.com/4eZYIX1.png" group-title="",PTV Malaga
+https://streamer.zapitv.com/PTV-malaga/index.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="Movies",Rakuten TV Action Movies Spain
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesSpain.es" tvg-logo="https://i.imgur.com/H08jcJi.png" group-title="Movies",Rakuten TV Comedy Movies Spain
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMoviesSpain.es" tvg-logo="https://i.imgur.com/NDEJNHr.png" group-title="Movies",Rakuten TV Drama Movies Spain
+https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMoviesSpain.es" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="Family;Movies",Rakuten TV Family Movies Spain
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Sports",Real Madrid TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="SolMusica.es" tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="Music",Sol Musica
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/512px-TeleMadrid.svg.png" group-title="",Telemadrid
+https://telemadrid-23.secure2.footprint.net/master.m3u8
